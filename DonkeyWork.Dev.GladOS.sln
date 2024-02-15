@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DonkeyWork.Dev.GladOS.Server", "DonkeyWork.Dev.GladOS.Server\DonkeyWork.Dev.GladOS.Server.csproj", "{4D2704F6-1907-4667-BEF0-5C1CC8D1A952}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "donkeywork.dev.glados.client", "donkeywork.dev.glados.client\donkeywork.dev.glados.client.esproj", "{608FB9ED-1C0E-4C62-ACD7-6D4A473DD233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DonkeyWork.Dev.GladOS.WikipediaConnector", "DonkeyWork.Dev.GladOS.WikipediaConnector\DonkeyWork.Dev.GladOS.WikipediaConnector.csproj", "{24CD81A2-22C0-4CF7-9012-0A8886962146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D2704F6-1907-4667-BEF0-5C1CC8D1A952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D2704F6-1907-4667-BEF0-5C1CC8D1A952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D2704F6-1907-4667-BEF0-5C1CC8D1A952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D2704F6-1907-4667-BEF0-5C1CC8D1A952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{608FB9ED-1C0E-4C62-ACD7-6D4A473DD233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608FB9ED-1C0E-4C62-ACD7-6D4A473DD233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{608FB9ED-1C0E-4C62-ACD7-6D4A473DD233}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{608FB9ED-1C0E-4C62-ACD7-6D4A473DD233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608FB9ED-1C0E-4C62-ACD7-6D4A473DD233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{608FB9ED-1C0E-4C62-ACD7-6D4A473DD233}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{24CD81A2-22C0-4CF7-9012-0A8886962146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24CD81A2-22C0-4CF7-9012-0A8886962146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24CD81A2-22C0-4CF7-9012-0A8886962146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24CD81A2-22C0-4CF7-9012-0A8886962146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DF84E25-DDF8-4509-9A77-515EF521441F}
+	EndGlobalSection
+EndGlobal

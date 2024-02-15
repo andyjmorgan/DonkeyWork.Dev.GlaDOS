@@ -1,0 +1,6 @@
+@DonkeyWork.Dev.GladOS.Server_HostAddress = http://localhost:5297
+
+GET {{DonkeyWork.Dev.GladOS.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

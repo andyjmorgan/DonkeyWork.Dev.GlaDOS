@@ -1,0 +1,41 @@
+
+.terminal-table{
+  border-radius: 25%;
+}
+
+:host ::ng-deep .p-terminal-content{
+  text-align: left;
+}
+
+:host ::ng-deep .p-terminal-prompt{
+  color: orange;
+}
+
+:host ::ng-deep .p-toast .p-toast-message .p-toast-message-content{
+  padding: .5rem;
+}
+:host ::ng-deep .p-card .p-card-title{
+  font-size: 1rem;
+}
+:host ::ng-deep audio {
+  width: 100%;
+}
+:host ::ng-deep .p-toast .p-toast-message.p-toast-message-warn{
+  background: transparent;
+}
+:host ::ng-deep.p-terminal{
+  min-height: 80vh;
+  background-image:url("../assets/GLaDOS1.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right 10px top 10px;
+  border-color: yellow;
+  border-radius: 15px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid orange;
+}
+:host ::ng-deep .p-terminal-content-prompt{
+  color: orange;
+}

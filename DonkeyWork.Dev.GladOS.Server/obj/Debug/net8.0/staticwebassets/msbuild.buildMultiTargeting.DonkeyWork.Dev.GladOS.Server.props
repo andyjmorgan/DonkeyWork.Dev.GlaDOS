@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DonkeyWork.Dev.GladOS.Server.props" />
+</Project>

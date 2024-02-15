@@ -1,0 +1,22 @@
+<div class="grid">
+
+  <div class="col">
+    <div class="terminal-table">
+        <p-terminal
+          welcomeMessage="Aperture Laboratories Inc. Secure Connection - Established!"
+          prompt="GlaDOS 3.1.3$ ">
+        </p-terminal>
+    </div>
+  </div>
+</div>
+
+<p-toast position="bottom-center" key="confirm" (onClose)="CloseAudioToast()" (canplaythrough)="AudioCanPlayThrough()">
+  <ng-template let-message pTemplate="message">
+    <div class="flex flex-column align-items-start" style="flex: 1">
+      <audio controls #audioElement (ended)="audioEnded()">
+        <source [src]="AudioTrackUrl" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+      </div>
+  </ng-template>
+</p-toast>

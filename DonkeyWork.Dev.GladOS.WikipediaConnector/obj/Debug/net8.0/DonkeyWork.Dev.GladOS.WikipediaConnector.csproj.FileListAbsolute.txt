@@ -1,0 +1,12 @@
+C:\Users\andre\source\repos\DonkeyWork.Dev.GladOS\DonkeyWork.Dev.GladOS.WikipediaConnector\bin\Debug\net8.0\DonkeyWork.Dev.GladOS.WikipediaConnector.deps.json
+C:\Users\andre\source\repos\DonkeyWork.Dev.GladOS\DonkeyWork.Dev.GladOS.WikipediaConnector\bin\Debug\net8.0\DonkeyWork.Dev.GladOS.WikipediaConnector.dll
+C:\Users\andre\source\repos\DonkeyWork.Dev.GladOS\DonkeyWork.Dev.GladOS.WikipediaConnector\bin\Debug\net8.0\DonkeyWork.Dev.GladOS.WikipediaConnector.pdb
+C:\Users\andre\source\repos\DonkeyWork.Dev.GladOS\DonkeyWork.Dev.GladOS.WikipediaConnector\obj\Debug\net8.0\DonkeyWork.Dev.GladOS.WikipediaConnector.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\DonkeyWork.Dev.GladOS\DonkeyWork.Dev.GladOS.WikipediaConnector\obj\Debug\net8.0\DonkeyWork.Dev.GladOS.WikipediaConnector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\DonkeyWork.Dev.GladOS\DonkeyWork.Dev.GladOS.WikipediaConnector\obj\Debug\net8.0\DonkeyWork.Dev.GladOS.WikipediaConnector.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\DonkeyWork.Dev.GladOS\DonkeyWork.Dev.GladOS.WikipediaConnector\obj\Debug\net8.0\DonkeyWork.Dev.GladOS.WikipediaConnector.AssemblyInfo.cs
+C:\Users\andre\source\repos\DonkeyWork.Dev.GladOS\DonkeyWork.Dev.GladOS.WikipediaConnector\obj\Debug\net8.0\DonkeyWork.Dev.GladOS.WikipediaConnector.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\DonkeyWork.Dev.GladOS\DonkeyWork.Dev.GladOS.WikipediaConnector\obj\Debug\net8.0\DonkeyWork.Dev.GladOS.WikipediaConnector.dll
+C:\Users\andre\source\repos\DonkeyWork.Dev.GladOS\DonkeyWork.Dev.GladOS.WikipediaConnector\obj\Debug\net8.0\refint\DonkeyWork.Dev.GladOS.WikipediaConnector.dll
+C:\Users\andre\source\repos\DonkeyWork.Dev.GladOS\DonkeyWork.Dev.GladOS.WikipediaConnector\obj\Debug\net8.0\DonkeyWork.Dev.GladOS.WikipediaConnector.pdb
+C:\Users\andre\source\repos\DonkeyWork.Dev.GladOS\DonkeyWork.Dev.GladOS.WikipediaConnector\obj\Debug\net8.0\ref\DonkeyWork.Dev.GladOS.WikipediaConnector.dll

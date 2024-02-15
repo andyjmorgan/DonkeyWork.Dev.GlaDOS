@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "MehnmtuEc/MJtEit0+cko6/Cp++leKjrWaPQ5zRSMA8=",
+  "Source": "DonkeyWork.Dev.GladOS.Server",
+  "BasePath": "_content/DonkeyWork.Dev.GladOS.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\andre\\source\\repos\\DonkeyWork.Dev.GladOS\\donkeywork.dev.glados.client\\donkeywork.dev.glados.client.esproj",
+      "Version": 2,
+      "Source": "donkeywork.dev.glados.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XeMwbFakQ28YBJEPLGL+h8bQ10laXh14NzpRbCP/XqJWgvFjUqKIBp17TkBYyWR9e1y7MYoNh67r3HTJ5f+brw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\source\\repos\\DonkeyWork.Dev.GladOS\\DonkeyWork.Dev.GladOS.WikipediaConnector\\DonkeyWork.Dev.GladOS.WikipediaConnector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\htmlagilitypack\\1.11.58\\htmlagilitypack.1.11.58.nupkg.sha512"
+  ],
+  "logs": []
+}
